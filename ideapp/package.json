@@ -1,8 +1,8 @@
 {
-  "homepage": "https://michelodev95.github.io/react-app",
   "name": "ideapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://michelodev95.github.io/ideapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
