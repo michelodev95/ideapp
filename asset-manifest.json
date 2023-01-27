@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ideapp/static/css/main.5d865235.css",
+    "main.js": "/ideapp/static/js/main.6a7be2db.js",
+    "index.html": "/ideapp/index.html",
+    "main.5d865235.css.map": "/ideapp/static/css/main.5d865235.css.map",
+    "main.6a7be2db.js.map": "/ideapp/static/js/main.6a7be2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d865235.css",
+    "static/js/main.6a7be2db.js"
+  ]
+}
